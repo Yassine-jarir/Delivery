@@ -1,0 +1,85 @@
+{
+  "services": {
+    "storage_services": {
+      "title": "Storage Service for Wholesalers",
+      "data": {
+        "service1": {
+          "mainTitle": "Keep Your Stock Secure",
+          "title": "Keep Your Stock Secure",
+          "description": "Store your products securely on the AMEEX platform. Free up physical space while benefiting from automated management and advanced security measures."
+        },
+        "service2": {
+          "mainTitle": "Stock Liquidation Service for E-Commerce Retailers",
+          "title": "Simplified Liquidation",
+          "description": "Liquidate your excess stock with ease with AMEEX. Reach a wider audience and achieve quick sales without unnecessary storage fees."
+        }
+      },
+      "button": "Request a Quote"
+    },
+    "global_services": {
+      "title": "Marketplace Services",
+      "advantages": "Advantages",
+      "data": {
+        "service1": {
+          "title": {
+            "bold": "Customized",
+            "light": "Landing Page"
+          },
+          "description": "AMEEX offers the creation of customized landing pages for each seller on the marketplace.",
+          "advantages": ["Increased visibility", "Optimal product presentation"]
+        },
+        "service2": {
+          "title": {
+            "bold": "Professional",
+            "light": "Video Editing"
+          },
+          "description": "We create attractive videos that highlight the unique features of your items, capturing customer interest and increasing engagement.",
+          "advantages": ["Attractive visual content", "Increased engagement"]
+        },
+        "service3": {
+          "title": {
+            "bold": "Professional",
+            "light": "Facebook Account"
+          },
+          "description": "AMEEX manages your professional Facebook account to maximize your online presence.",
+          "advantages": ["Harnessing social media networks", "Expanding reach"]
+        }
+      }
+    }
+  },
+
+  "tariff": {
+    "title": "Tariff",
+    "table": {
+      "service": "SERVICE",
+      "price": "PRICE"
+    },
+    "description": "Boost your sales today with AMEEX Marketplace!",
+    "button": "Request a Quote"
+  },
+
+  "advantages": {
+    "title": {
+      "bold": "Advantages",
+      "light": "Additional"
+    },
+    "data": {
+      "advantage1": {
+        "title": "Personalized Assistance:",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+      },
+      "advantage2": {
+        "title": "Cross Promotion:",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+      },
+      "advantage3": {
+        "title": "Reward Programs:",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+      }
+    }
+  },
+  "FAQ": {
+    "title": "FAQs on Marketplace Service",
+    "description": "Check out our FAQ for quick answers to common questions about our marketplace service."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "services": {
+    "title": {
+      "light": "Les Services",
+      "bold": "de Warehousing"
+    },
+    "data": {
+      "service1": {
+        "title": "Service de Stockage Sécurisé",
+        "description": "AMEEX offre un espace de stockage sûr et sécurisé pour vos produits, assurant une protection maximale."
+      },
+      "service2": {
+        "title": "Gestion Transparente des Stocks",
+        "description": "Grâce à des systèmes de suivi avancés, vous avez un contrôle total sur vos stocks, permettant une gestion transparente et"
+      },
+      "service3": {
+        "title": "Services de Préparation de Commandes",
+        "description": "Notre équipe assure une préparation rapide et précise des commandes pour répondre aux exigences de votre chaîne"
+      }
+    }
+  },
+
+  "tariff": {
+    "title": "Tarif",
+    "table": {
+      "storage_space": "Tarif pour l'espace de stockage par mètre carré",
+      "order_preparation_costs": "Frais de préparation de commande",
+      "inventory_tracking_services": "Tarif pour les services de suivi des stocks"
+    },
+    "observation": {
+      "title": "Remarque",
+      "value": "Contactez-nous pour des tarifs personnalisés en fonction de vos besoins spécifiques."
+    }
+  },
+
+  "estimate": {
+    "title": "Optimisez Votre Gestion de Stocks Aujourd'hui",
+    "description": "Contactez AMEEX pour des Solutions de Warehousing Sur Mesure",
+    "button": "Demander un Devis"
+  },
+
+  "advantages": {
+    "title": {
+      "bold": "Avantages",
+      "light": "Supplémentaires"
+    },
+    "data": {
+      "advantage1": {
+        "title": "Expertise de l'Industrie",
+        "description": "Bénéficiez de l'expertise d'AMEEX avec plus de [nombre d'années] années d'expérience dans l'industrie logistique marocaine."
+      },
+      "advantage2": {
+        "title": "Infrastructure Avancée",
+        "description": "Notre entrepôt est équipé d'une infrastructure avancée, garantissant une gestion efficace et des opérations sans heurts."
+      },
+      "advantage3": {
+        "title": "Flexibilité Personnalisée",
+        "description": "AMEEX s'adapte à vos besoins spécifiques en proposant des solutions de warehousing flexibles et personnalisées."
+      }
+    }
+  },
+
+  "reviews": {
+    "title": "Témoignages de Clients"
+  },
+
+  "FAQ": {
+    "title": "FAQ sur le Service d'Entreposage",
+    "description": "Consultez notre FAQ pour obtenir des réponses rapides aux questions courantes sur notre service d'entreposage."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "attraction_sentence": {
+      "line_one": "More than simple Delivery,",
+      "line_two": "an Experience",
+      "line_three": "Exceptional AMEEX."
+    }
+  },
+
+  "about": {
+    "title": "Who we are?",
+    "description": "AMEEX redefines the commerce ecosystem in Morocco by offering comprehensive services. From fast, reliable delivery to our dedicated call center, from the efficiency of our professional warehouse to our all-in-one marketplace, we solve every logistics challenge. As an all-in-one partner, we focus on trust, transparency and excellence, transforming every delivery into a complete and satisfying experience for our customers. At AMEEX, every parcel is a promise of quality, professionalism and customer satisfaction, and it's this promise that we honor with every delivery."
+  },
+
+  "video": {
+    "data": {
+      "satisfied_customers": "Satisfied customers",
+      "proposed_services": "Services offered",
+      "dedicated_team": "Dedicated team",
+      "experience_in_industry": "Industry experience",
+      "destinations_served": "Destinations served",
+      "delivery_rate": "Delivery Rates",
+      "strategic_partnerships": "Strategic Partnerships",
+      "active_marketplace": "Active Marketplace",
+      "years": "years",
+      "sellers": "Sellers"
+    }
+  },
+
+  "team": {
+    "title": "Team of Experts"
+  },
+
+  "services": {
+    "title": "Our services",
+    "description_one": "At AMEEX.MA, we offer a comprehensive range of services to meet the diverse needs of our customers, aiming to simplify every aspect of the supply chain.",
+    "description_two": "At AMEEX.MA, we're more than just a delivery service. We're your strategic partner for growth, offering an integrated suite of services to meet your logistics needs and enable you to successfully achieve your business objectives.",
+    "services": {
+      "delivery": "Fast, reliable delivery",
+      "call_center": "Dedicated Call Center",
+      "warehousing": "Professional Warehousing",
+      "marketplace": "All-in-One Marketplace"
+    }
+  },
+
+  "features": {
+    "title": "Why AMEEX ?",
+    "description": "At AMEEX, we go beyond simple delivery to offer you a complete and exceptional experience. Here's why choosing AMEEX.MA can make all the difference to your business:",
+    "footer_description": "When you choose AMEEX, you're choosing much more than a logistics service provider - you're choosing a partner committed to simplifying your trading journey, maximizing your efficiency and giving you the peace of mind you need to thrive in the world of modern commerce."
+  },
+
+  "reviews": {
+    "title": "Testimonials",
+    "services": {
+      "delivery": "Fast delivery",
+      "call_center": "Dedicated Call Center",
+      "warehousing": "Professional Warehouse",
+      "marketplace": "All-in-One Marketplace"
+    }
+  },
+
+  "blog": {
+    "title": "Blog"
+  },
+
+  "FAQ": {
+    "title": "Frequently Asked Questions (FAQ) - AMEEX",
+    "share_thoughts": "We welcome your feedback. You can leave a review on our website, or email us at feedback@ameex.ma. Your feedback is essential to help us continually improve our services.",
+    "contact_us": "We hope these answers answer your frequently asked questions. Should you require any further information, please do not hesitate to contact us directly."
+  }
+}

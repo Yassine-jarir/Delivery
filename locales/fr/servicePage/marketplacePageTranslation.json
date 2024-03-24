@@ -1,0 +1,94 @@
+{
+  "services": {
+    "storage_services": {
+      "title": "Service de Stockage pour les Grossistes",
+      "data": {
+        "service1": {
+          "mainTitle": "Gardez Votre Stock en Sécurité",
+          "title": "Gardez Votre Stock en Sécurité",
+          "description": "Stockez vos produits en toute sécurité sur la plateforme AMEEX. Libérez de l'espace physique tout en bénéficiant d'une gestion automatisée et de mesures de sécurité avancées"
+        },
+        "service2": {
+          "mainTitle": "Service de Liquidation de Stock pour les E-Commerçants",
+          "title": "Liquidation Simplifiée",
+          "description": "Liquidez vos stocks excédentaires en toute simplicité avec AMEEX. Atteignez un public plus large et réalisez des ventes rapides sans frais de stockage inutiles"
+        }
+      },
+      "button": "Demander un Devis"
+    },
+    "global_services": {
+      "title": "Les Services de Marketplace",
+      "advantages": "Avantages",
+      "data": {
+        "service1": {
+          "title": {
+            "bold": "Landing Page",
+            "light": "Personnalisée"
+          },
+          "description": "AMEEX offre la création de landing pages personnalisées pour chaque vendeur sur la marketplace.",
+          "advantages": [
+            "Augmentation de la visibilité",
+            "présentation optimale des produits"
+          ]
+        },
+        "service2": {
+          "title": {
+            "bold": "Vidéo de Montage",
+            "light": "Professionnelle"
+          },
+          "description": "Nous créons des vidéos attractives qui mettent en avant les caractéristiques uniques de vos articles, suscitant l'intérêt des clients et augmentant l'engagement",
+          "advantages": [
+            "Contenu visuel attractif",
+            "augmentation de l'engagement"
+          ]
+        },
+        "service3": {
+          "title": {
+            "bold": "Compte Facebook",
+            "light": "Professionnel"
+          },
+          "description": "AMEEX gère votre compte Facebook professionnel pour maximiser votre présence en ligne.",
+          "advantages": [
+            "Exploitation des réseaux sociaux",
+            "élargissement de la portée"
+          ]
+        }
+      }
+    }
+  },
+  "tariff": {
+    "title": "Tarif",
+    "table": {
+      "service": "SERVICE",
+      "price": "PRIX"
+    },
+    "description": "Boostez vos ventes dès aujourd'hui avec AMEEX Marketplace!",
+    "button": "Demander un Devis"
+  },
+
+  "advantages": {
+    "title": {
+      "bold": "Avantages",
+      "light": "Supplémentaires"
+    },
+    "data": {
+      "advantage1": {
+        "title": "Assistance Personnalisée :",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+      },
+      "advantage2": {
+        "title": "Promotion Croisée :",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+      },
+      "advantage3": {
+        "title": "Programmes de Récompenses :",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+      }
+    }
+  },
+
+  "FAQ": {
+    "title": "FAQ sur le Service de Marketplace",
+    "description": "Consultez notre FAQ pour obtenir des réponses rapides aux questions courantes sur notre service de marketplace."
+  }
+}

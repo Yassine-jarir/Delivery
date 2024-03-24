@@ -1,0 +1,89 @@
+{
+  "global": {
+    "address": "تقسيم الياسمين 2 ن 45 مراكش 40000",
+    "services": {
+      "title": "خدماتنا",
+      "delivery": "توصيل",
+      "call_center": "مركز اتصال",
+      "warehousing": "تخزين",
+      "marketplace": "المتجر"
+    },
+    "login": "تسجيل الدخول",
+    "sign_up": "أفتح حساب الأن",
+    "see_more": "معرفة المزيد",
+    "notification": {
+      "success": "نجاح",
+      "message_sent": "تم إرسال الرسالة بنجاح. شكرًا لك!",
+      "failed": "فشل",
+      "internal_error": "حدث خطأ داخلي. يرجى المحاولة مرة أخرى لاحقًا!"
+    }
+  },
+
+  "navbar": {
+    "home": "الرئيسية",
+    "about": "من نحن؟",
+    "services": "خدماتنا",
+    "features": "لماذا أميكس؟",
+    "reviews": "الشهادات",
+    "blog": "المدونة",
+    "start": "ابدأ الآن"
+  },
+
+  "contact": {
+    "title": {
+      "light": "إتصل",
+      "bold": "بأميكس"
+    },
+
+    "form": {
+      "full_name": "الاسم الكامل",
+      "phone_number": "رقم الهاتف",
+      "email": "البريد الإلكتروني",
+      "request_nature": {
+        "label": "طبيعة طلبك",
+        "default_selected": "طبيعة طلبك",
+        "options": {
+          "negative_request": "طلب سلبي",
+          "absent_latent_or_emerging_demand": "طلب غائب، كامن أو ناشئ",
+          "seasonal_irregular_demand": "طلب موسمي / غير منتظم",
+          "existing_or_declining_demand": "طلب قائم أو في انخفاض",
+          "sustained_demand": "طلب مستمر",
+          "excessive_demand": "طلب زائد",
+          "undesirable_demand": "طلب غير مرغوب",
+          "other": "آخر"
+        }
+      },
+      "request_subject": {
+        "label": "موضوع الطلب",
+        "default_selected": "موضوع الطلب",
+        "options": {
+          "product_problem": "مشكلة في المنتج",
+          "technical_support": "الدعم الفني",
+          "billing_questions": "أسئلة الفواتير",
+          "customer_service": "خدمة العملاء",
+          "suggestions_for_improvement": "اقتراحات للتحسين",
+          "order_tracking": "تتبع الطلب",
+          "complaints": "شكاوى",
+          "information_request": "طلب معلومات",
+          "returns_and_refunds": "إرجاع واسترداد",
+          "other": "آخر"
+        }
+      },
+      "service_concerned": {
+        "label": "الخدمة المعنية",
+        "default_selected": "اختر الخدمة المعنية",
+        "options": {
+          "delivery_service": "خدمة التوصيل",
+          "call_center": "مركز الاتصال",
+          "professional_warehousing": "تخزين احترافي",
+          "all_in_one_marketplace": "سوق شامل"
+        }
+      },
+      "comment": "رسالتك",
+      "condition": "من خلال تحديد هذا المربع، فإنك تؤكد أنك قد قرأت ووافقت على شروط الاستخدام وسياسة الخصوصية الخاصة بنا.",
+      "submit": "إرسال",
+      "sending": "إرسال...",
+      "input_required": "هذا الحقل مطلوب !"
+    }
+  }
+}

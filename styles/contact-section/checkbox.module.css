@@ -1,0 +1,22 @@
+.checkbox_input {
+  appearance: none;
+  -webkit-appearance: none;
+  min-height: 15px;
+  min-width: 15px;
+  height: 15px;
+  width: 15px;
+  border: 2px solid #fff;
+  position: relative;
+}
+
+.checkbox_input:checked {
+  background-color: #fff;
+}
+
+.checkbox_input:checked:after {
+  content: url("../../public/images/Icons/icon45.svg");
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -40%);
+}

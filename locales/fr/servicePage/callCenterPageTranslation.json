@@ -1,0 +1,56 @@
+{
+  "features": {
+    "title": "Notre Centre d'Appel Dédié",
+    "second_title": "Une Communication Sans Faille",
+    "description": "Notre centre d'appel dédié chez AMEEX assure une assistance clientèle exceptionnelle",
+    "data": {
+      "feature1": "la gestion des appels",
+      "feature2": "le suivi des commandes",
+      "feature3": "la résolution de problème",
+      "feature4": "Service apres ventel"
+    }
+  },
+  "tariff": {
+    "title": "Tarifs",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "table": {
+      "service": "SERVICE",
+      "price": "PRIX"
+    }
+  },
+  "advantages": {
+    "title": {
+      "bold": "Avantages",
+      "light": "Supplémentaires"
+    },
+    "data": {
+      "advantage1": {
+        "title": "Support 24/7"
+      },
+      "advantage2": {
+        "title": "Équipe Multilingue"
+      },
+      "advantage3": {
+        "title": "Résolution Rapide des Problèmes"
+      }
+    }
+  },
+  "reviews": {
+    "title": "Témoignages de Clients"
+  },
+  "work_process": {
+    "title": "Processus de Travail",
+    "step": "STEP",
+    "steps": {
+      "step1": "First Step",
+      "step2": "Second Step",
+      "step3": "Third Step",
+      "step4": "Fourth Step"
+    }
+  },
+
+  "FAQ": {
+    "title": "FAQ sur le Service de Centre d'Appel",
+    "description": "Consultez notre FAQ pour obtenir des réponses rapides aux questions courantes sur notre service de Centre d'Appel."
+  }
+}

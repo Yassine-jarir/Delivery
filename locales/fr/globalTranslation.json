@@ -1,0 +1,89 @@
+{
+  "global": {
+    "address": "LOT YASSMINE 2 N 45, Marrakesh 40000",
+    "services": {
+      "title": "Nos Services",
+      "delivery": "Livraison",
+      "call_center": "Centre d’appel",
+      "warehousing": "Entreposage",
+      "marketplace": "Marketplace"
+    },
+    "login": "Se connecter",
+    "sign_up": "S’inscrire maintenant",
+    "see_more": "En savoir plus",
+    "notification": {
+      "success": "Succès",
+      "message_sent": "Message envoyé avec succès. Merci !",
+      "failed": "Échec",
+      "internal_error": "Quelque chose s'est mal passé !"
+    }
+  },
+
+  "navbar": {
+    "home": "Accueil",
+    "about": "Qui somme-nous?",
+    "services": "Nos Services",
+    "features": "Pourquoi Ameex?",
+    "reviews": "Témoignages",
+    "blog": "Blog",
+    "start": "Commencer maintenant"
+  },
+
+  "contact": {
+    "title": {
+      "light": "Contact",
+      "bold": "AMEEX"
+    },
+
+    "form": {
+      "full_name": "Nom Complet",
+      "phone_number": "Numéro de Téléphone",
+      "email": "Adresse Email",
+      "request_nature": {
+        "label": "Nature de Votre Demande",
+        "default_selected": "Nature de Votre Demande",
+        "options": {
+          "negative_request": "Demande négative",
+          "absent_latent_or_emerging_demand": "Demande absente, latente ou naissante",
+          "seasonal_irregular_demand": "Demande saisonnière / irrégulière",
+          "existing_or_declining_demand": "Demande existante ou déclinante",
+          "sustained_demand": "Demande soutenue",
+          "excessive_demand": "Demande excessive",
+          "undesirable_demand": "Demande indésirable",
+          "other": "Autre"
+        }
+      },
+      "request_subject": {
+        "label": "Sujet de la Demande",
+        "default_selected": "Sujet de la Demande",
+        "options": {
+          "product_problem": "Problème de Produit",
+          "technical_support": "Assistance Technique",
+          "billing_questions": "Questions sur la Facturation",
+          "customer_service": "Service Client",
+          "suggestions_for_improvement": "Suggestions d'Amélioration",
+          "order_tracking": "Suivi de Commande",
+          "complaints": "Réclamations",
+          "information_request": "Demande d'Information",
+          "returns_and_refunds": "Retours et Remboursements",
+          "other": "Autre"
+        }
+      },
+      "service_concerned": {
+        "label": "Le Service Concerné",
+        "default_selected": "Séléctionnez le Service Concerné",
+        "options": {
+          "delivery_service": "Service de Livraison",
+          "call_center": "Centre d'Appel",
+          "professional_warehousing": "Entreposage Professionnel",
+          "all_in_one_marketplace": "Marketplace Tout-en-Un"
+        }
+      },
+      "comment": "Votre Message",
+      "condition": "En cochant cette case, vous confirmez que vous avez lu et accepté nos conditions d'utilisation et notre politique de confidentialité.",
+      "submit": "Envoyer",
+      "sending": "Envoi...",
+      "input_required": "Cette entrée est nécessaire !"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "services": {
+    "title": {
+      "light": "Services",
+      "bold": "Warehousing"
+    },
+    "data": {
+      "service1": {
+        "title": "Secure Storage Service",
+        "description": "AMEEX offers safe and secure storage space for your products, ensuring maximum protection."
+      },
+      "service2": {
+        "title": "Transparent Inventory Management",
+        "description": "With advanced tracking systems, you have complete control over your inventory, enabling transparent management and"
+      },
+      "service3": {
+        "title": "Order Preparation Services",
+        "description": "Our team ensures fast and accurate order preparation to meet the requirements of your supply chain"
+      }
+    }
+  },
+
+  "tariff": {
+    "title": "Tariff",
+    "table": {
+      "storage_space": "Rate for storage space per square meter",
+      "order_preparation_costs": "Order preparation costs",
+      "inventory_tracking_services": "Rate for inventory tracking services"
+    },
+    "observation": {
+      "title": "Note",
+      "value": "Contact us for customized rates based on your specific needs."
+    }
+  },
+
+  "estimate": {
+    "title": "Optimize Your Inventory Management Today",
+    "description": "Contact AMEEX for Tailored Warehousing Solutions",
+    "button": "Request a Quote"
+  },
+
+  "advantages": {
+    "title": {
+      "bold": "Advantages",
+      "light": "Additional"
+    },
+    "data": {
+      "advantage1": {
+        "title": "Industry Expertise",
+        "description": "Benefit from AMEEX's expertise with over [number of years] years of experience in the Moroccan logistics industry."
+      },
+      "advantage2": {
+        "title": "Advanced Infrastructure",
+        "description": "Our warehouse is equipped with advanced infrastructure, ensuring efficient management and seamless operations."
+      },
+      "advantage3": {
+        "title": "Customized Flexibility",
+        "description": "AMEEX adapts to your specific needs by offering flexible and personalized warehousing solutions."
+      }
+    }
+  },
+
+  "reviews": {
+    "title": "Customer Testimonials"
+  },
+
+  "FAQ": {
+    "title": "FAQs on Warehousing Service",
+    "description": "Check out our FAQ for quick answers to common questions about our warehousing service."
+  }
+}

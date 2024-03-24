@@ -1,0 +1,89 @@
+{
+  "global": {
+    "address": "LOT YASSMINE 2 N 45, Marrakesh 40000",
+    "services": {
+      "title": "Our services",
+      "delivery": "Delivery",
+      "call_center": "Call center",
+      "warehousing": "Warehousing",
+      "marketplace": "Marketplace"
+    },
+    "login": "Login",
+    "sign_up": "Register now",
+    "see_more": "Find out more",
+    "notification": {
+      "success": "Success",
+      "message_sent": "Message sent successfully. Thank you!",
+      "failed": "Failed",
+      "internal_error": "Something wrong, Please try again later!"
+    }
+  },
+
+  "navbar": {
+    "home": "Home",
+    "about": "Who we are?",
+    "services": "Our services",
+    "features": "Why Ameex?",
+    "reviews": "Testimonials",
+    "blog": "Blog",
+    "start": "Start now"
+  },
+
+  "contact": {
+    "title": {
+      "light": "Contact",
+      "bold": "AMEEX"
+    },
+
+    "form": {
+      "full_name": "Full name",
+      "phone_number": "Phone number",
+      "email": "Email address",
+      "request_nature": {
+        "label": "Your request",
+        "default_selected": "Your request",
+        "options": {
+          "negative_request": "Negative Request",
+          "absent_latent_or_emerging_demand": "Absent, Latent, or Emerging Demand",
+          "seasonal_irregular_demand": "Seasonal/Irregular Demand",
+          "existing_or_declining_demand": "Existing or Declining Demand",
+          "sustained_demand": "Sustained Demand",
+          "excessive_demand": "Excessive Demand",
+          "undesirable_demand": "Undesirable Demand",
+          "other": "Other"
+        }
+      },
+      "request_subject": {
+        "label": "Subject of Request",
+        "default_selected": "Subject of Request",
+        "options": {
+          "product_problem": "Product Problem",
+          "technical_support": "Technical Support",
+          "billing_questions": "Billing Questions",
+          "customer_service": "Customer Service",
+          "suggestions_for_improvement": "Suggestions for Improvement",
+          "order_tracking": "Order Tracking",
+          "complaints": "Complaints",
+          "information_request": "Information Request",
+          "returns_and_refunds": "Returns and Refunds",
+          "other": "Other"
+        }
+      },
+      "service_concerned": {
+        "label": "Le Service Concerné",
+        "default_selected": "Select the Service concerned",
+        "options": {
+          "delivery_service": "Delivery Service",
+          "call_center": "Call Center",
+          "professional_warehousing": "Professional Warehousing",
+          "all_in_one_marketplace": "All-in-One Marketplace"
+        }
+      },
+      "comment": "Your message",
+      "condition": "By checking this box, you confirm that you have read and accepted our terms of use and privacy policy.",
+      "submit": "Submit",
+      "sending": "Sending...",
+      "input_required": "This input is required !"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+.service:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  background-color: var(--main-blue-color);
+  width: 100%;
+  height: 100%;
+  top: 100%;
+  transition: all 0.5s;
+}
+
+.service:hover:before {
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.service:after {
+  content: url("../../../public/images/Icons/icon25.svg");
+  position: absolute;
+  width: 40%;
+  object-fit: contain;
+  z-index: -1;
+  top: 75%;
+  transition: all 0.5s;
+}
+
+.ltr.service:after {
+  left: -100%;
+  transform: translate(-50%, -50%) scaleX(1);
+}
+
+.rtl.service:after {
+  right: -100%;
+  transform: translate(-50%, -50%) scaleX(-1);
+}
+
+.ltr.service:hover:after {
+  left: 50%;
+}
+
+.rtl.service:hover:after {
+  right: 10%;
+}
+
+@keyframes fadeRight {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeLeft {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.service.ltr {
+  opacity: 0;
+  transform: translateX(-20px);
+  animation: fadeRight 0.5s ease forwards;
+}
+
+.service.rtl {
+  opacity: 0;
+  transform: translateX(20px);
+  animation: fadeLeft 0.5s ease forwards;
+}

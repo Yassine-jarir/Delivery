@@ -1,0 +1,27 @@
+.mainBG {
+  background-color: #f5f5f5;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.mainBG::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 1000px;
+  transform: scale(1.8);
+  background-image: url("../../../../public/images/Icons/DeliveryIcons/icon17.svg");
+  background-repeat: no-repeat;
+  z-index: -10;
+}
+
+@media screen and (max-width: 1024px) {
+  .mainBG {
+    background-color: #ffffff;
+  }
+
+  .mainBG::before {
+    background-image: none;
+  }
+}

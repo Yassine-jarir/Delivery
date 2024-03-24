@@ -1,0 +1,96 @@
+{
+  "tracking": {
+    "title": "Track Your Order",
+    "form": {
+      "tracking_number": "Tracking Number",
+      "tracking_number_placeholder": "Enter your tracking number...",
+      "buttons": {
+        "submit": "Track My Order",
+        "link": "Track your order here."
+      },
+      "track_order_question": "Don't have your tracking number?"
+    }
+  },
+
+  "services": {
+    "title": "Delivery Services",
+    "quick_delivery": {
+      "title": "Quick Delivery",
+      "description": "Our quick delivery service ensures your parcels reach their destination in record time. Enjoy efficient logistics and complete transparency."
+    },
+    "real_time_tracking": {
+      "title": "Real-time Tracking",
+      "description": "Track your parcel in real-time with our advanced technology. Stay informed at every step of the delivery process."
+    }
+  },
+
+  "tariff": {
+    "title": "List of Serviced Cities",
+    "description": "Discover our competitive tariffs for each destination. No hidden costs, just complete transparency.",
+    "card": {
+      "destinations_value": "80",
+      "destinations": "destinations",
+      "description": "AMEEX delivers to over 80 destinations across Morocco, covering urban and rural areas."
+    },
+    "table": {
+      "cities": "Cities",
+      "delivery_price": "Delivery Price",
+      "return_price": "Return Price"
+    },
+    "footer": {
+      "description": "Enhance your delivery experience with AMEEX. Click below to start your shipment.",
+      "button": "Start Your Delivery"
+    }
+  },
+
+  "reviews": {
+    "title": "Customer Testimonials"
+  },
+
+  "advantages": {
+    "title": "Additional Advantages",
+    "description": "AMEEX goes beyond just delivering parcels; we elevate your logistical experience to the next level by offering a range of additional advantages.",
+    "data": {
+      "unparalleled_speed": "Unparalleled Speed",
+      "real_time_tracking": "Real-time Tracking",
+      "flexibility_of_delivery_times": "Flexibility of Delivery Times",
+      "parcel_insurance_and_security": "Parcel Insurance and Security",
+      "dedicated_customer_support_team": "Dedicated Customer Support Team",
+      "flexibility_of_delivery_times2": "Flexibility of Delivery Times"
+    },
+    "footer": {
+      "description": "At AMEEX, we don't just deliver parcels; we provide a comprehensive logistical experience tailored to your needs. Enjoy these additional advantages and discover how our delivery service can enhance your daily life.",
+      "button": "Start Your Delivery"
+    }
+  },
+
+  "FAQ": {
+    "title": "FAQs on Delivery Service",
+    "description": "Check out our FAQ for quick answers to common questions about our delivery service."
+  },
+
+  "contact": {
+    "title": {
+      "light": "Ask Us",
+      "bold": "a Question"
+    },
+    "form": {
+      "delivery_message": "Ask us a question about delivery"
+    }
+  },
+
+  "interactiveMap": {
+    "title": "Interactive Map",
+    "description": "Explore our delivery network across Morocco with our interactive map.",
+    "cities": {
+      "tangier": "Tangier",
+      "oujda": "Oujda",
+      "casablanca": "Casa blanca",
+      "zagora": "Zagora",
+      "agadir": "Agadir",
+      "guelmim": "Guelmim",
+      "laayoune": "Laayoune",
+      "dakhla": "Dakhla"
+    }
+  }
+}

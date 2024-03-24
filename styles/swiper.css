@@ -1,0 +1,82 @@
+/* swiper pagination */
+
+.swiper-pagination {
+  position: static !important;
+  max-width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.swiper-pagination-bullet {
+  width: var(
+    --swiper-pagination-bullet-width,
+    var(--swiper-pagination-bullet-size, 10px)
+  ) !important;
+  height: var(
+    --swiper-pagination-bullet-height,
+    var(--swiper-pagination-bullet-size, 10px)
+  ) !important;
+  background: var(
+    --swiper-pagination-bullet-inactive-color,
+    rgba(255, 255, 255, 0.5)
+  ) !important;
+  opacity: var(--swiper-pagination-bullet-inactive-opacity, 1) !important;
+  margin: 0 5px !important;
+}
+
+.swiper-pagination-bullet-active {
+  width: var(
+    --swiper-pagination-bullet-width,
+    var(--swiper-pagination-bullet-size, 14px)
+  ) !important;
+  height: var(
+    --swiper-pagination-bullet-height,
+    var(--swiper-pagination-bullet-size, 14px)
+  ) !important;
+  background: var(--swiper-pagination-bullet-inactive-color, #fff) !important;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 1024px) {
+  .swiper-pagination {
+    position: static !important;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .swiper-pagination-bullet {
+    width: var(
+      --swiper-pagination-bullet-width,
+      var(--swiper-pagination-bullet-size, 8px)
+    ) !important;
+    height: var(
+      --swiper-pagination-bullet-height,
+      var(--swiper-pagination-bullet-size, 8px)
+    ) !important;
+    background: var(
+      --swiper-pagination-bullet-inactive-color,
+      rgba(246, 99, 23, 0.5)
+    ) !important;
+  }
+
+  .swiper-pagination-bullet-active {
+    width: var(
+      --swiper-pagination-bullet-width,
+      var(--swiper-pagination-bullet-size, 11px)
+    ) !important;
+    height: var(
+      --swiper-pagination-bullet-height,
+      var(--swiper-pagination-bullet-size, 11px)
+    ) !important;
+    background: var(
+      --swiper-pagination-bullet-inactive-color,
+      var(--main-orange-color)
+    ) !important;
+  }
+}

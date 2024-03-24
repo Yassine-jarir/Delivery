@@ -1,0 +1,14 @@
+.service:after {
+  content: url("../../../public/images/Icons/icon21.svg");
+  transform: scaleY(-1);
+  position: absolute;
+  width: 70%;
+  object-fit: contain;
+  z-index: -1;
+  bottom: -100%;
+  transition: all 0.5s;
+}
+
+.service:hover:after {
+  bottom: 10%;
+}

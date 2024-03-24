@@ -1,0 +1,55 @@
+{
+  "features": {
+    "title": "Our Dedicated Call Center",
+    "second_title": "Seamless Communication",
+    "description": "Our dedicated call center at AMEEX ensures exceptional customer assistance",
+    "data": {
+      "feature1": "Call Management",
+      "feature2": "Order Tracking",
+      "feature3": "Problem Resolution",
+      "feature4": "After-sales Service"
+    }
+  },
+  "tariff": {
+    "title": "Tariffs",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "table": {
+      "service": "SERVICE",
+      "price": "PRICE"
+    }
+  },
+  "advantages": {
+    "title": {
+      "bold": "Advantages",
+      "light": "Additional"
+    },
+    "data": {
+      "advantage1": {
+        "title": "24/7 Support"
+      },
+      "advantage2": {
+        "title": "Multilingual Team"
+      },
+      "advantage3": {
+        "title": "Quick Problem Resolution"
+      }
+    }
+  },
+  "reviews": {
+    "title": "Customer Testimonials"
+  },
+  "work_process": {
+    "title": "Work Process",
+    "step": "STEP",
+    "steps": {
+      "step1": "First Step",
+      "step2": "Second Step",
+      "step3": "Third Step",
+      "step4": "Fourth Step"
+    }
+  },
+  "FAQ": {
+    "title": "FAQs on Call Center Service",
+    "description": "Check out our FAQ for quick answers to common questions about our call center service."
+  }
+}
